@@ -102,6 +102,7 @@
 <body>
     <div class="container">
         <h1>Product Details</h1>
+        
         <br>
         <div id="product-details">
             <p><strong>Product Name:</strong> <span id="name"></span></p>
